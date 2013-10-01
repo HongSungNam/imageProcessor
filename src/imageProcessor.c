@@ -1,10 +1,3 @@
-/*
-COSC 3p98 Assignment 1 Question 1
-Chris Conley 5083837 - cc11at
-
-Builds upon the load.h example
-*/
-
 
 #include <stdlib.h>
 #include <string.h>
